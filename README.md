@@ -1,5 +1,3 @@
-Конечно! Вот полная версия:
-
 - 👋 Hi, I’m @Valerijkk
 - 👀 I’m interested in full-stack development, Python, C++, Java, JS, Swift, Docker, Git, GitHub, development, and front-end design.
 - 💞️ I’m looking to collaborate on exciting full-stack development projects, open-source contributions, and innovative software solutions.
