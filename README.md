@@ -60,7 +60,7 @@ Hackathons and contests shape my approach to solving complex problems efficientl
 | **БЕЗУМhack**                             | Participant                      |
 | **IT-Джем “ИТы Герой”**                   | Participant                      |
 | **Pro-Техно**                             | Participant                      |
-| **CrossHack 4.0**                         | Semifinalist                     |
+| **CrossHack 4.0**                         | Finalist                     |
 | **“I Am a Professional” Olympiad**        | Competed in 7 categories         |
 
 ---
@@ -160,7 +160,7 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 | **БЕЗУМhack**                               | Участник                           |
 | **IT‑Джем “ИТы Герой”**                     | Участник                           |
 | **Pro‑Техно**                               | Участник                           |
-| **CrossHack 4.0**                           | Полуфиналист                       |
+| **CrossHack 4.0**                           | Финалист                      |
 | **Олимпиада “I Am a Professional”**         | Участвовал в 7 категориях          |
 
 ---
