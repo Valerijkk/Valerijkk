@@ -152,6 +152,8 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 | **Мероприятие**                             | **Результат**                      |
 |---------------------------------------------|------------------------------------|
 | **Yandex Cup 2024 (Tashkent)**              | Финалист фронтенда                 |
+| **Yandex Cup 2024 (Tashkent)**              | Полуфиналист бекенда               |
+| **Yandex Cup 2024 (Tashkent)**              | Участник алгоритм                  |
 | **MTS True Tech Champ**                     | Полуфиналист                       |
 | **Data Fusion Contest 2025**                | Участник                           |
 | **T1.Код.Март**                             | Участник                           |
@@ -160,7 +162,7 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 | **БЕЗУМhack**                               | Участник                           |
 | **IT‑Джем “ИТы Герой”**                     | Участник                           |
 | **Pro‑Техно**                               | Участник                           |
-| **CrossHack 4.0**                           | Финалист                      |
+| **CrossHack 4.0**                           | Финалист                           |
 | **Олимпиада “I Am a Professional”**         | Участвовал в 7 категориях          |
 
 ---
