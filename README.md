@@ -162,7 +162,7 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 | **БЕЗУМhack**                               | Участник                           |
 | **IT‑Джем “ИТы Герой”**                     | Участник                           |
 | **Pro‑Техно**                               | Участник                           |
-| **CrossHack 4.0**                           | Финалист                           |
+| **CrossHack 4.0**                           | Призёр                             |
 | **Олимпиада “I Am a Professional”**         | Участвовал в 7 категориях          |
 
 ---
