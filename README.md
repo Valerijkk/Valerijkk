@@ -15,9 +15,7 @@ I’m passionate about building modern, high-quality applications and constantly
 
 ---
 
-## ✅ Technical Stack
-
-Below are the main technologies I’ve worked with, along with some I’m learning or plan to explore in the near future.
+## ✅ Technical Stack (updated May 2025)
 
 | **Technology**      | **Proficiency**          |
 |---------------------|--------------------------|
@@ -29,11 +27,18 @@ Below are the main technologies I’ve worked with, along with some I’m learni
 | **JavaScript**      | :white_check_mark:       |
 | **SQL**             | :white_check_mark:       |
 | **Go**              | :white_check_mark:       |
+| **HTML5**           | :white_check_mark:       |
+| **CSS3**            | :white_check_mark:       |
 | **React**           | :white_check_mark:       |
 | **WPF**             | :white_check_mark:       |
 | **Flask**           | :white_check_mark:       |
 | **FastAPI**         | :white_check_mark:       |
 | **Qt 5.0.2**        | :white_check_mark:       |
+| **Git**             | :white_check_mark:       |
+| **GitHub**          | :white_check_mark:       |
+| **GitLab**          | :white_check_mark:       |
+| **Bash**            | :white_check_mark:       |
+| **Postman**         | :white_check_mark:       |
 | **WordPress**       | :white_check_mark:       |
 | **Tilda**           | :white_check_mark:       |
 
@@ -46,20 +51,22 @@ Below are the main technologies I’ve worked with, along with some I’m learni
 
 ## 🏆 Hackathons & Competitions
 
-Hackathons and contests shape my approach to solving complex problems efficiently, collaborating with teams, and coming up with innovative ideas under tight deadlines.
-
-| **Event**                                  | **Achievement**                  |
-|-------------------------------------------|----------------------------------|
-| **Yandex Cup 2024 (Tashkent)**            | Frontend Finalist                |
-| **MTS True Tech Champ**                   | Semifinalist                     |
-| **Data Fusion Contest 2025**              | Participant                      |
-| **IT_ONE Cup. ML Challenge**              | Participant                      |
-| **MTS True Tech Hack**                    | Participant                      |
-| **БЕЗУМhack**                             | Participant                      |
-| **IT-Джем “ИТы Герой”**                   | Participant                      |
-| **Pro-Техно**                             | Participant                      |
-| **CrossHack 4.0**                         | Finalist                     |
-| **“I Am a Professional” Olympiad**        | Competed in 7 categories         |
+| **Event**                                   | **Achievement**                                                      |
+|---------------------------------------------|----------------------------------------------------------------------|
+| **CrossHack 4.0 (2025)**                    | 3rd place                                                            |
+| **Yandex Cup 2024 (Tashkent)**              | Front-end Finalist · Back-end Semifinalist · Algorithms Participant  |
+| **MTS True Tech Champ 2024**                | Semifinalist                                                         |
+| **MTS True Tech Hack 2025**                 | Participant                                                          |
+| **Data Fusion Contest 2025**                | Participant                                                          |
+| **IT_ONE Cup – ML Challenge 2025**          | Participant                                                          |
+| **БЕЗУМhack 2025**                          | Participant                                                          |
+| **IT-Джем “ИТы Герой” 2025**                | Participant                                                          |
+| **Pro-Techno 2025**                         | Participant                                                          |
+| **Цифра.zone                                | Participant                                                          |
+| **Blockchain Hackathon by Sber 2025**       | Participant                                                          |
+| **TECH SQUAD 2025**                         | Participant                                                          |
+| **IPTIP Code April 2025**                   | Participant                                                          |
+| **“I Am a Professional” Olympiad 2024**     | Competed in 7 categories                                             |
 
 ---
 
@@ -113,9 +120,7 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 
 ---
 
-## ✅ Технический стек
-
-Ниже перечислены основные технологии, с которыми я работал, а также те, которые изучаю или планирую изучить в ближайшее время.
+## ✅ Навыки 
 
 | **Технология**      | **Владение**             |
 |---------------------|--------------------------|
@@ -127,13 +132,21 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 | **JavaScript**      | :white_check_mark:       |
 | **SQL**             | :white_check_mark:       |
 | **Go**              | :white_check_mark:       |
+| **HTML5**           | :white_check_mark:       |
+| **CSS3**            | :white_check_mark:       |
 | **React**           | :white_check_mark:       |
 | **WPF**             | :white_check_mark:       |
 | **Flask**           | :white_check_mark:       |
 | **FastAPI**         | :white_check_mark:       |
-| **Qt 5.0.2**        | :white_check_mark:       |
+| **Qt 5.0.2**        | :white_check_mark:       |
+| **Git**             | :white_check_mark:       |
+| **GitHub**          | :white_check_mark:       |
+| **GitLab**          | :white_check_mark:       |
+| **Bash**            | :white_check_mark:       |
+| **Postman**         | :white_check_mark:       |
 | **WordPress**       | :white_check_mark:       |
 | **Tilda**           | :white_check_mark:       |
+
 
 ### 🚀 Что я изучаю дальше
 - Продвинутые алгоритмы **AI/ML**  
@@ -144,22 +157,22 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 
 ## 🏆 Хакатоны и конкурсы
 
-Хакатоны и соревнования формируют мой подход к решению сложных задач в сжатые сроки, работе в командах и генерации инновационных идей.
-
-| **Мероприятие**                             | **Результат**                      |
-|---------------------------------------------|------------------------------------|
-| **Yandex Cup 2024 (Tashkent)**              | Финалист фронтенда                 |
-| **Yandex Cup 2024 (Tashkent)**              | Полуфиналист бекенда               |
-| **Yandex Cup 2024 (Tashkent)**              | Участник алгоритм                  |
-| **MTS True Tech Champ**                     | Полуфиналист                       |
-| **Data Fusion Contest 2025**                | Участник                           |
-| **IT_ONE Cup. ML Challenge**                | Участник                           |
-| **MTS True Tech Hack**                      | Участник                           |
-| **БЕЗУМhack**                               | Участник                           |
-| **IT‑Джем “ИТы Герой”**                     | Участник                           |
-| **Pro‑Техно**                               | Участник                           |
-| **CrossHack 4.0**                           | Призёр                             |
-| **Олимпиада “I Am a Professional”**         | Участвовал в 7 категориях          |
+| **Мероприятие**                             | **Результат**                                                       |
+|---------------------------------------------|---------------------------------------------------------------------|
+| **CrossHack 4.0 (2025)**                    | Призёр (3 место)                                                    |
+| **Yandex Cup 2024 (Ташкент)**               | Финалист фронтенда · Полуфиналист бэкенда · Участник алгоритмов     |
+| **MTS True Tech Champ 2024**                | Полуфиналист                                                        |
+| **MTS True Tech Hack 2025**                 | Участник                                                            |
+| **Data Fusion Contest 2025**                | Участник                                                            |
+| **IT_ONE Cup – ML Challenge 2025**          | Участник                                                            |
+| **БЕЗУМhack 2025**                          | Участник                                                            |
+| **IT-Джем «ИТы Герой» 2025**                | Участник                                                            |
+| **Pro-Техно 2025**                          | Участник                                                            |
+| **Цифра.zone                                | Участник                                                            |
+| **Blockchain хакатон от Сбербанка 2025**    | Участник                                                            |
+| **TECH SQUAD 2025**                         | Участник                                                            |
+| **IPTIP CODE APRIL 2025**                   | Участник                                                            |
+| **Олимпиада «Я — профессионал» 2024**       | Участвовал в 7 направлениях                                         |
 
 ---
 
