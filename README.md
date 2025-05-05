@@ -27,7 +27,6 @@ Below are the main technologies I’ve worked with, along with some I’m learni
 | **C#**              | :white_check_mark:       |
 | **Java**            | :white_check_mark:       |
 | **JavaScript**      | :white_check_mark:       |
-| **TypeScript**      | :white_check_mark:       |
 | **SQL**             | :white_check_mark:       |
 | **Go**              | :white_check_mark:       |
 | **React**           | :white_check_mark:       |
@@ -54,7 +53,6 @@ Hackathons and contests shape my approach to solving complex problems efficientl
 | **Yandex Cup 2024 (Tashkent)**            | Frontend Finalist                |
 | **MTS True Tech Champ**                   | Semifinalist                     |
 | **Data Fusion Contest 2025**              | Participant                      |
-| **T1.Код.Март**                           | Participant                      |
 | **IT_ONE Cup. ML Challenge**              | Participant                      |
 | **MTS True Tech Hack**                    | Participant                      |
 | **БЕЗУМhack**                             | Participant                      |
@@ -127,7 +125,6 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 | **C#**              | :white_check_mark:       |
 | **Java**            | :white_check_mark:       |
 | **JavaScript**      | :white_check_mark:       |
-| **TypeScript**      | :white_check_mark:       |
 | **SQL**             | :white_check_mark:       |
 | **Go**              | :white_check_mark:       |
 | **React**           | :white_check_mark:       |
@@ -156,7 +153,6 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 | **Yandex Cup 2024 (Tashkent)**              | Участник алгоритм                  |
 | **MTS True Tech Champ**                     | Полуфиналист                       |
 | **Data Fusion Contest 2025**                | Участник                           |
-| **T1.Код.Март**                             | Участник                           |
 | **IT_ONE Cup. ML Challenge**                | Участник                           |
 | **MTS True Tech Hack**                      | Участник                           |
 | **БЕЗУМhack**                               | Участник                           |
