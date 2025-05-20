@@ -62,7 +62,7 @@ I’m passionate about building modern, high-quality applications and constantly
 | **БЕЗУМhack 2025**                          | Participant                                                          |
 | **IT-Джем “ИТы Герой” 2025**                | Participant                                                          |
 | **Pro-Techno 2025**                         | Participant                                                          |
-| **Цифра.zone                                | Participant                                                          |
+| **Цифра.zone**                              | Participant                                                          |
 | **Blockchain Hackathon by Sber 2025**       | Participant                                                          |
 | **TECH SQUAD 2025**                         | Participant                                                          |
 | **IPTIP Code April 2025**                   | Participant                                                          |
@@ -168,7 +168,7 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 | **БЕЗУМhack 2025**                          | Участник                                                            |
 | **IT-Джем «ИТы Герой» 2025**                | Участник                                                            |
 | **Pro-Техно 2025**                          | Участник                                                            |
-| **Цифра.zone                                | Участник                                                            |
+| **Цифра.zone**                              | Участник                                                            |
 | **Blockchain хакатон от Сбербанка 2025**    | Участник                                                            |
 | **TECH SQUAD 2025**                         | Участник                                                            |
 | **IPTIP CODE APRIL 2025**                   | Участник                                                            |
