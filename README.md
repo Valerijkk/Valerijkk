@@ -150,7 +150,7 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 
 ### 🚀 Что я изучаю дальше
 - Продвинутые алгоритмы **AI/ML**  
-- **Docker** и **Kubernetes**  
+- **Docker**  
 - Масштабируемые архитектуры **микросервисов**  
 
 ---
