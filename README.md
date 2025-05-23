@@ -10,8 +10,7 @@ I’m passionate about building modern, high-quality applications and constantly
   I’m open to internships, projects, and available roles to apply and grow my tech stack.  
 - **Code Quality**  
   I prioritize clean, readable, and maintainable code to foster smooth team collaboration and reduce technical debt.  
-- **Fun Fact**  
-  I’m over 190&nbsp;cm tall!
+
 
 ---
 
@@ -115,8 +114,7 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
   Открыт для стажировок, проектов и вакансий, чтобы применить и расширить свой стек технологий.  
 - **Качество кода**  
   Ставлю в приоритет чистый, читабельный и поддерживаемый код для эффективной командной работы и сокращения технического долга.  
-- **Забавный факт**  
-  Мой рост — более 190 см!
+
 
 ---
 
