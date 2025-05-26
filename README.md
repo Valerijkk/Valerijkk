@@ -177,8 +177,7 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 - **SpaceExchangeServer7** *(C# / WPF)*  
 - **TeamForge** *(React / JavaScript)*  
 - **teamforge-web-clone-discord** *(React / Flask — приватный репозиторий в разработке)*  
-- **webconstructor** *(HTML quick-start tool)*  
-- **frontend-foodmaster_1.0** *(TypeScript)*  
+- **webconstructor** *(HTML quick-start tool)*   
 - **clontg-frontback-sem2-4**, **clonwb-frontback-sem2-3**, **clonejira-frontback-sem2-5**, **sem2frontback-t0do0list-first-zadanie** *(JavaScript — эксперименты с frontend + backend)*  
 
 Также у меня есть несколько open‑source проектов на Python и классических веб‑сервисов на Flask и FastAPI. Я постоянно расширяю свои навыки, осваиваю новые технологии и совершенствую уже знакомые.
