@@ -74,8 +74,7 @@ I’m passionate about building modern, high-quality applications and constantly
 In my GitHub profile, you’ll find both public and private repositories, including:
 
 - **SpaceExchangeServer7** *(C# / WPF)*  
-- **TeamForge** *(React / JavaScript)*  
-- **teamforge-web-clone-discord** *(React / Flask – private repo in development)*  
+- **TeamForge** *(React / JavaScript)*   
 - **webconstructor** *(HTML quick-start tool)*  
 - **frontend-foodmaster_1.0** *(TypeScript)*  
 - **clontg-frontback-sem2-4**, **clonwb-frontback-sem2-3**, **clonejira-frontback-sem2-5**, **sem2frontback-t0do0list-first-zadanie** *(JavaScript — exploring frontend + backend combos)*  
