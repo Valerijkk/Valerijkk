@@ -172,8 +172,7 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 ## 🚀 Мои проекты
 
 В моем профиле на GitHub вы найдете как публичные, так и приватные репозитории, включая:
-
-- **SpaceExchangeServer7** *(C# / WPF)*  
+  
 - **TeamForge** *(React / JavaScript)*  
 - **teamforge-web-clone-discord** *(React / Flask — приватный репозиторий в разработке)*  
 - **webconstructor** *(HTML quick-start tool)*   
