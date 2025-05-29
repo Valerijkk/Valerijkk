@@ -1,182 +1,152 @@
-# Hello! I’m Valerii Chervyakov
+<h1 align="center">Valerii Chervyakov</h1>
+<p align="center">
+  <strong>Full-Stack Developer • 3rd-year student @ MIREA • Open to new challenges</strong>
+</p>
 
-I’m passionate about building modern, high-quality applications and constantly learning new technologies. I am a third-year **Fullstack Development** student at MIREA (Russian Technological University) and currently enrolled in a professional retraining program for **domestic systems administration**. I love working with **WPF/C#**, **React**, **Flask**, and more. I’m always looking for new challenges—through hackathons, competitions, and continuous collaboration to level up my skills.
-
----
-
-## ✨ About Me
-
-- **Seeking Opportunities**  
-  I’m open to internships, projects, and available roles to apply and grow my tech stack.  
-- **Code Quality**  
-  I prioritize clean, readable, and maintainable code to foster smooth team collaboration and reduce technical debt.  
-
+<p align="center">
+  <a href="mailto:Chervyakov-valerii-sergeivych@yandex.ru">✉️ Email</a> 
+</p>
 
 ---
 
-## ✅ Technical Stack (updated May 2025)
+## 🚀 About Me
+- **Current status:** 3-rd year B.Sc. *Full-Stack Development* @ MIREA (2023 – 2027).
+- **Professional retraining:** *Administration of domestic systems* (Oct 2024 – Jul 2025).
+- **Mindset:** I care about clean, maintainable code, transparent processes and teamwork.
+- **Looking for:** Internships, part-time/full-time roles, and open-source collaborations.
 
-| **Technology**      | **Proficiency**          |
-|---------------------|--------------------------|
-| **Python**          | :white_check_mark:       |
-| **C**               | :white_check_mark:       |
-| **C++**             | :white_check_mark:       |
-| **C#**              | :white_check_mark:       |
-| **Java**            | :white_check_mark:       |
-| **JavaScript**      | :white_check_mark:       |
-| **SQL**             | :white_check_mark:       |
-| **Go**              | :white_check_mark:       |
-| **HTML5**           | :white_check_mark:       |
-| **CSS3**            | :white_check_mark:       |
-| **React**           | :white_check_mark:       |
-| **WPF**             | :white_check_mark:       |
-| **Flask**           | :white_check_mark:       |
-| **FastAPI**         | :white_check_mark:       |
-| **Qt 5.0.2**        | :white_check_mark:       |
-| **Git**             | :white_check_mark:       |
-| **GitHub**          | :white_check_mark:       |
-| **GitLab**          | :white_check_mark:       |
-| **Bash**            | :white_check_mark:       |
-| **Postman**         | :white_check_mark:       |
-| **WordPress**       | :white_check_mark:       |
-| **Tilda**           | :white_check_mark:       |
+<details>
+<summary><strong>📚 Education & Courses</strong></summary>
 
-### :rocket: What I’m Exploring Next
-- Advanced **AI/ML** algorithms  
-- **Docker** & **Kubernetes**  
-- Scalable **microservices** architectures  
+| Period                | Program / Course                                             |
+|-----------------------|--------------------------------------------------------------|
+| 2023-09 → 2027-08     | B.Sc. *Full-Stack Development*, **MIREA**                    |
+| 2024-10 → 2025-07     | Prof. retraining, *Administration of domestic systems*       |
+| 2024-02 → 2024-03     | “Generation Python”: Beginner + Advanced (on-line)           |
+</details>
 
 ---
 
-## 🏆 Hackathons & Competitions
+## 🛠️ Tech Stack (2025)
+**Languages:** Python • C • C++ • C# • Java • JavaScript • SQL • Go  
+**Frontend:** React • HTML5 • CSS3 • WPF • Qt 5  
+**Backend / Frameworks:** FastAPI • Flask • Flask-SocketIO  
+**Testing & QA:** Playwright • Cypress • Pytest • React Testing Library • Locust  
+**Tools:** Docker • Git / GitHub / GitLab • Bash • Swagger • Postman • WordPress • Tilda
 
-| **Event**                                   | **Achievement**                                                      |
-|---------------------------------------------|----------------------------------------------------------------------|
-| **CrossHack 4.0 (2025)**                    | 3rd place                                                            |
-| **Yandex Cup 2024 (Tashkent)**              | Front-end Finalist · Back-end Semifinalist · Algorithms Participant  |
-| **MTS True Tech Champ 2024**                | Semifinalist                                                         |
-| **MTS True Tech Hack 2025**                 | Participant                                                          |
-| **Data Fusion Contest 2025**                | Participant                                                          |
-| **IT_ONE Cup – ML Challenge 2025**          | Participant                                                          |
-| **БЕЗУМhack 2025**                          | Participant                                                          |
-| **IT-Джем “ИТы Герой” 2025**                | Participant                                                          |
-| **Pro-Techno 2025**                         | Participant                                                          |
-| **Цифра.zone**                              | Participant                                                          |
-| **Blockchain Hackathon by Sber 2025**       | Participant                                                          |
-| **TECH SQUAD 2025**                         | Participant                                                          |
-| **IPTIP Code April 2025**                   | Participant                                                          |
-| **“I Am a Professional” Olympiad 2024**     | Competed in 7 categories                                             |
+> *Always exploring:* AI/ML algorithms, Kubernetes, production-grade micro-services.
 
 ---
 
-## 🚀 My Projects
+## 🏆 Highlights & Competitions
 
-In my GitHub profile, you’ll find both public and private repositories, including:
+| Year | Event / Track                                    | Result |
+|------|--------------------------------------------------|--------|
+| 2025 | **CrossHack 4.0**                                | 🥉 3-rd place |
+| 2025 | IPTIP Code April                                 | Participant |
+| 2025 | MTS True Tech Hack                               | Participant |
+| 2024 | **Yandex Cup** – Frontend                        | Finalist |
+| 2024 | Yandex Cup – Backend                             | Semi-finalist |
+| 2024 | MTS True Tech Champ                              | Semi-finalist |
+| 2024 | “I am a Professional” Olympiad (7 tracks)        | Participant |
 
-- **SpaceExchangeServer7** *(C# / WPF)*  
-- **TeamForge** *(React / JavaScript)*   
-- **webconstructor** *(HTML quick-start tool)*  
-- **frontend-foodmaster_1.0** *(TypeScript)*  
-- **clontg-frontback-sem2-4**, **clonwb-frontback-sem2-3**, **clonejira-frontback-sem2-5**, **sem2frontback-t0do0list-first-zadanie** *(JavaScript — exploring frontend + backend combos)*  
+<details open>
+<summary><strong>All</strong></summary>
 
-I also have various open-source Python-based projects and classic web services using Flask and FastAPI. I’m always expanding my skill set, adding new technologies, and refining existing ones. 
+### 2025
+- **CrossHack 4.0** — 3-rd place (prize winner)
+- **MTS True Tech Hack** — Participant
+- **IT_ONE Cup – ML Challenge** — Participant
+- **BEZUMhack** — Participant
+- **IT-Jam “ITy Hero”** — Participant
+- **TECH SQUAD** (Gazprom) — Participant
+- **IPTIP CODE APRIL 2025** — Participant
+- **VnedReid** hackathon (Orison Soft) — Participant
+- **“Code of Victory”** hackathon (RTU MIREA) — Participant
+- **ARCHI TECH** hackathon (VTB) — Participant
+- **GO CTF Tatarstan 2025** — Participant
+- **Yandex Universities Battle** — Semifinalist
+- **Digital Marathon** (Sberbank) — Participant
 
-Feel free to explore my repositories to see how I tackle diverse problems and continuously evolve my coding practices. Enjoy your visit, and don’t hesitate to reach out for any collaboration opportunities!
+### 2024
+- **Yandex Cup 2024 – Frontend track (Tashkent)** — Finalist
+- **Yandex Cup 2024 – Backend track** — Semifinalist
+- **Yandex Cup 2024 – Algorithms track** — Participant
+- **MTS True Tech Champ** — Semifinalist
+- **“I Am a Professional”** All-Russian Olympiad — Competed in 7 tracks
 
+</details>
 
+---
 
+## 🔥 Selected Projects
 
+| Project / Repo | Stack | Highlights |
+|----------------|-------|------------|
+| **Code-Win-MIREA**<br>*(private fragments)* | Python / AI | NLP emotional analysis, story & image generation, music synthesis |
+| **TeamForge** *(priv.)* | Flask + WebRTC | Team chat, calls, trainee courses, AI-assistant (demo on request) |
+| **webconstructor** | JS/HTML | Rapid web-page prototyping CLI |
 
+→ See full list at **[github.com/Valerijkk](https://github.com/Valerijkk)**.
 
+---
 
+## 🤝 Let’s Connect
+If my skills and projects match your needs, feel free to reach out through **Email** or any contact above. I’m ready to dive into complex tasks, learn fast, and ship value.
 
+---
 
-
-
-
-
-
-
-
-
-
+<details>
+<summary>Нажмите, чтобы раскрыть русскую версию</summary>
 
 # Привет! Я Валерий Червяков
 
-Я увлечен созданием современных, качественных приложений и постоянно изучаю новые технологии. Я студент 3‑го курса направления **Fullstack‑разработка** в МИРЭА (Российский технологический университет) и в настоящее время прохожу программу профессиональной переподготовки по **администрированию отечественных систем**. Мне нравится работать с **WPF/C#**, **React**, **Flask** и многим другим. Я всегда ищу новые вызовы — участвую в хакатонах, конкурсах и постоянно сотрудничаю с командами, чтобы повысить свой уровень.
+**Фулстек-разработчик, студент 3-го курса МИРЭА.** Открыт для стажировок и проектов, ценю чистый код и прозрачные процессы.
 
----
-## ✨ О себе
-- **Ищу возможности**  
-  Открыт для стажировок, проектов и вакансий, чтобы применить и расширить свой стек технологий.  
-- **Качество кода**  
-  Ставлю в приоритет чистый, читабельный и поддерживаемый код для эффективной командной работы и сокращения технического долга.  
----
+## ✨ Обо мне
+- Учусь на *Full-Stack Development* (2023-2027).
+- Прохожу переподготовку «Администрирование отечественных систем» (2024-2025).
+- Люблю **WPF/C#**, **React**, **Flask**, **FastAPI** и всё, что помогает решать задачи быстро и качественно.
 
-## ✅ Навыки 
+## ✅ Стек
+Python • C/C++/C# • Java • JavaScript • SQL • Go • React • FastAPI • Flask • Docker • Git и др.
 
-| **Технология**      | **Владение**             |
-|---------------------|--------------------------|
-| **Python**          | :white_check_mark:       |
-| **C**               | :white_check_mark:       |
-| **C++**             | :white_check_mark:       |
-| **C#**              | :white_check_mark:       |
-| **Java**            | :white_check_mark:       |
-| **JavaScript**      | :white_check_mark:       |
-| **SQL**             | :white_check_mark:       |
-| **Go**              | :white_check_mark:       |
-| **HTML5**           | :white_check_mark:       |
-| **CSS3**            | :white_check_mark:       |
-| **React**           | :white_check_mark:       |
-| **WPF**             | :white_check_mark:       |
-| **Flask**           | :white_check_mark:       |
-| **FastAPI**         | :white_check_mark:       |
-| **Qt 5.0.2**        | :white_check_mark:       |
-| **Git**             | :white_check_mark:       |
-| **GitHub**          | :white_check_mark:       |
-| **GitLab**          | :white_check_mark:       |
-| **Bash**            | :white_check_mark:       |
-| **Postman**         | :white_check_mark:       |
-| **WordPress**       | :white_check_mark:       |
-| **Tilda**           | :white_check_mark:       |
+## 🏆 Достижения
+- **CrossHack 4.0 (2025)** — 3-е место
+- **Yandex Cup 2024** — финалист фронтенда, полуфиналист бэкенда
+- **MTS True Tech Champ 2024** — полуфиналист  
+<details>
+<summary><strong>Подробнее</strong></summary>
 
+### 2025 год
+- **CrossHack 4.0** — призёр, 3-е место
+- **MTS True Tech Hack** — участник
+- **IT_ONE Cup – ML Challenge** — участник
+- **БЕЗУМhack** — участник
+- **IT-Джем «ИТы Герой»** — участник
+- **TECH SQUAD** (Газпром) — участник
+- **IPTIP CODE APRIL 2025** — участник
+- **Внедрейд** (Orison Soft) — участник
+- **Хакатон «Код победы»** (РТУ МИРЭА) — участник
+- **ARCHI TECH** (ВТБ) — участник
+- **GO CTF TATARSTAN 2025** — участник
+- **Батл вузов** (Яндекс) — полуфиналист
+- **Цифровой марафон** (Сбербанк) — участник
 
-### 🚀 Что я изучаю дальше
-- Продвинутые алгоритмы **AI/ML**  
-- **Docker**  
-- Масштабируемые архитектуры **микросервисов**  
+### 2024 год
+- **Yandex Cup 2024 — Frontend (Ташкент)** — финалист
+- **Yandex Cup 2024 — Backend** — полуфиналист
+- **Yandex Cup 2024 — Алгоритмы** — участник
+- **MTS True Tech Champ** — полуфиналист
+- **Всероссийская олимпиада «Я — профессионал»** — участие в 7 направлениях
 
----
+</details>
 
-## 🏆 Хакатоны и конкурсы
+## 🚀 Проекты
+- **Code-Win-MIREA** — анализ военных дневников, генерация историй, иллюстраций, музыки
+- **LocalConstructor** — десктоп-конструктор сайтов (Go + Wails)
+- **TeamForge** — командный чат с WebRTC и AI-ассистентом (демо по запросу)
 
-| **Мероприятие**                             | **Результат**                                                       |
-|---------------------------------------------|---------------------------------------------------------------------|
-| **CrossHack 4.0 (2025)**                    | Призёр (3 место)                                                    |
-| **Yandex Cup 2024 (Ташкент)**               | Финалист фронтенда · Полуфиналист бэкенда · Участник алгоритмов     |
-| **MTS True Tech Champ 2024**                | Полуфиналист                                                        |
-| **MTS True Tech Hack 2025**                 | Участник                                                            |
-| **Data Fusion Contest 2025**                | Участник                                                            |
-| **IT_ONE Cup – ML Challenge 2025**          | Участник                                                            |
-| **БЕЗУМhack 2025**                          | Участник                                                            |
-| **IT-Джем «ИТы Герой» 2025**                | Участник                                                            |
-| **Pro-Техно 2025**                          | Участник                                                            |
-| **Цифра.zone**                              | Участник                                                            |
-| **Blockchain хакатон от Сбербанка 2025**    | Участник                                                            |
-| **TECH SQUAD 2025**                         | Участник                                                            |
-| **IPTIP CODE APRIL 2025**                   | Участник                                                            |
-| **Олимпиада «Я — профессионал» 2024**       | Участвовал в 7 направлениях                                         |
+Заходите на **GitHub**, посмотрим код и обсудим сотрудничество!
 
----
-
-## 🚀 Мои проекты
-
-В моем профиле на GitHub вы найдете как публичные, так и приватные репозитории, включая:
-  
-- **TeamForge** *(React / JavaScript)*  
-- **webconstructor** *(HTML quick-start tool)*   
-- **clontg-frontback-sem2-4**, **clonwb-frontback-sem2-3**, **clonejira-frontback-sem2-5**, **sem2frontback-t0do0list-first-zadanie** *(JavaScript — эксперименты с frontend + backend)*  
-
-Также у меня есть несколько open‑source проектов на Python и классических веб‑сервисов на Flask и FastAPI. Я постоянно расширяю свои навыки, осваиваю новые технологии и совершенствую уже знакомые.
-
-Приятного просмотра моих репозиториев! Буду рад сотрудничеству.  
+</details>
