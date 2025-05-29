@@ -174,7 +174,6 @@ Feel free to explore my repositories to see how I tackle diverse problems and co
 В моем профиле на GitHub вы найдете как публичные, так и приватные репозитории, включая:
   
 - **TeamForge** *(React / JavaScript)*  
-- **teamforge-web-clone-discord** *(React / Flask — приватный репозиторий в разработке)*  
 - **webconstructor** *(HTML quick-start tool)*   
 - **clontg-frontback-sem2-4**, **clonwb-frontback-sem2-3**, **clonejira-frontback-sem2-5**, **sem2frontback-t0do0list-first-zadanie** *(JavaScript — эксперименты с frontend + backend)*  
 
