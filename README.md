@@ -52,7 +52,6 @@
 
 <details open>
 <summary><strong>All</strong></summary>
-
 ### 2025
 - **CrossHack 4.0** — 3-rd place (prize winner)
 - **MTS True Tech Hack** — Participant
