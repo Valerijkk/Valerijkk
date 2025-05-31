@@ -50,8 +50,9 @@
 | 2024 | MTS True Tech Champ                              | Semi-finalist |
 | 2024 | “I am a Professional” Olympiad (7 tracks)        | Participant |
 
-<details open>
+<details>
 <summary><strong>All</strong></summary>
+
 ### 2025
 - **CrossHack 4.0** — 3-rd place (prize winner)
 - **MTS True Tech Hack** — Participant
