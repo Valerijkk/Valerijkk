@@ -24,6 +24,7 @@
 </details>
 
 ---
+
 ## 🛠️ Tech Stack (2025)
 **Languages:** Python • C • C++ • C# • Java • JavaScript • SQL • Go  
 **Frontend:** React • HTML5 • CSS3 • WPF • Qt 5  
