@@ -6,7 +6,6 @@
 <p align="center">
   <a href="mailto:Chervyakov-valerii-sergeivych@yandex.ru">✉️ Email</a> 
 </p>
----
 
 ## 🚀 About Me
 - **Current status:** 3-rd year B.Sc. *Full-Stack Development* @ MIREA (2023 – 2027).
