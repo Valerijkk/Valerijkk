@@ -6,7 +6,6 @@
 <p align="center">
   <a href="mailto:Chervyakov-valerii-sergeivych@yandex.ru">✉️ Email</a> 
 </p>
-
 ---
 
 ## 🚀 About Me
