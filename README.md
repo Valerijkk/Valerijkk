@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:Chervyakov-valerii-sergeivych@yandex.ru">✉️ Email</a> 
+  <a href="https://disk.yandex.ru/i/6xFDglDLpx1YFQ">📖 Resume</a> 
 </p>
 
 ## 🚀 About Me
