@@ -7,7 +7,7 @@
   <a href="https://disk.yandex.ru/i/6xFDglDLpx1YFQ">📖 Resume</a> 
 </p>
 
-## 🚀 About Me
+## 🚀 About Me 😁
 - **Current status:** 3-rd year B.Sc. *Full-Stack Development* @ MIREA (2023 – 2027).
 - **Professional retraining:** *Administration of domestic systems* (Oct 2024 – Jul 2025).
 - **Mindset:** I care about clean, maintainable code, transparent processes and teamwork.
