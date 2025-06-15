@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://disk.yandex.ru/i/6xFDglDLpx1YFQ">📖 Resume</a> 
+  <a href="https://disk.yandex.ru/i/6xFDglDLpx1YFQ">📖 My resume</a> 
 </p>
 
 ## 🚀 About Me 😁
