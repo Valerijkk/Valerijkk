@@ -28,7 +28,7 @@
 **Testing & QA:** Playwright • Cypress • Pytest • React Testing Library • Locust  
 **Tools:** Docker • Git / GitHub / GitLab • Bash • Swagger • Postman • WordPress • Tilda
 
-> *Always exploring:* AI/ML algorithms, Kubernetes, production-grade micro-services.
+> *Always exploring:* AI/ML, Kubernetes, production-grade micro-services.
 
 ---
 
