@@ -82,8 +82,6 @@
 | **TeamForge** *(priv.)* | Flask + WebRTC | Team chat, calls, trainee courses, AI-assistant (demo on request) |
 | **webconstructor** | JS/HTML | Rapid web-page prototyping CLI |
 
-→ See full list at **[github.com/Valerijkk](https://github.com/Valerijkk)**.
-
 ---
 
 ## 🤝 Let’s Connect
