@@ -1,145 +1,209 @@
-<h1 align="center">Valerii Chervyakov</h1>
+<h1 align="center">🚀 Valerii Chervyakov</h1>
 <p align="center">
-  <strong>Full-Stack Developer • 3rd-year student @ MIREA • Open to new challenges</strong>
+  <strong>💻 Full-Stack & QA Engineer • 🎓 3rd-year @ MIREA • 🧠 1+ year experience</strong>
+</p>
+<p align="center">
+  <a href="mailto:valerich.tv.88@mail.ru">
+    <img src="https://img.shields.io/badge/📧 Email-valerich.tv.88%40mail.ru-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-## 🚀 About Me 😁
-- **Current status:** 3-rd year B.Sc. *Full-Stack Development* @ MIREA (2023 – 2027).
-- **Professional retraining:** *Administration of domestic systems* (Oct 2024 – Jul 2025).
-- **Mindset:** I care about clean, maintainable code, transparent processes and teamwork.
-- **Looking for:** Internships, part-time/full-time roles, and open-source collaborations.
+<details open>
+<summary><b>🌍 English</b></summary>
 
-<details>
-<summary><strong>📚 Education & Courses</strong></summary>
+## 🌟 About Me
+🧑‍💻 Full-Stack & QA developer with **1+ year** of hands-on experience in web systems, automation, and backend/frontend integration.  
+🎓 B.Sc. Full-Stack Development @ **RTU MIREA** (2023–2027)  
+🎯 Professional retraining: **Administration of Domestic Systems** (2024–2025)  
+📘 Courses: **“Generation Python”** (Beginner & Advanced)  
 
-| Period                | Program / Course                                             |
-|-----------------------|--------------------------------------------------------------|
-| 2023-09 → 2027-08     | B.Sc. *Full-Stack Development*, **MIREA**                    |
-| 2024-10 → 2025-07     | Prof. retraining, *Administration of domestic systems*       |
-| 2024-02 → 2024-03     | “Generation Python”: Beginner + Advanced (on-line)           |
-</details>
+## 🧰 Tech Stack
 
----
+### 🔤 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
+</p>
 
-## 🛠️ Tech Stack (2025)
-**Languages:** Python • C • C++ • C# • Java • JavaScript • SQL • Go  
-**Frontend:** React • HTML5 • CSS3 • WPF • Qt 5  
-**Backend / Frameworks:** FastAPI • Flask • Flask-SocketIO  
-**Testing & QA:** Playwright • Cypress • Pytest • React Testing Library • Locust  
-**Tools:** Docker • Git / GitHub / GitLab • Bash • Swagger • Postman • WordPress • Tilda
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge"/>
+</p>
 
-> *Always exploring:* Kubernetes, production-grade micro-services.
+### ⚙️ Backend / Frameworks
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white&style=for-the-badge"/>
+</p>
 
----
+### ✅ Testing & QA
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Allure-ED2668?logo=allure&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Locust-000000?logo=locust&logoColor=white&style=for-the-badge"/>
+</p>
 
+### 🛠 Tools
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tilda-000000?logo=tildapublishing&logoColor=white&style=for-the-badge"/>
+</p>
 
-## 🏆 Highlights & Competitions
+> Also using: SQLAlchemy • Pydantic • Flask-Login • Flask-Mail • eventlet • requests • uvicorn • httpx • PyJWT • python-socketio
 
-| Year | Event / Track                                    | Result |
-|------|--------------------------------------------------|--------|
-| 2025 | **CrossHack 4.0**                                | 🥉 3-rd place |
-| 2025 | IPTIP Code April                                 | Participant |
-| 2025 | MTS True Tech Hack                               | Participant |
-| 2024 | **Yandex Cup** – Frontend                        | Finalist |
-| 2024 | Yandex Cup – Backend                             | Semi-finalist |
-| 2024 | MTS True Tech Champ                              | Semi-finalist |
-| 2024 | “I am a Professional” Olympiad (7 tracks)        | Participant |
-
-<details>
-<summary><strong>All</strong></summary>
-
+## 🏆 Achievements 
 ### 2025
-- **CrossHack 4.0** — 3-rd place (prize winner)
-- **MTS True Tech Hack** — Participant
-- **IT_ONE Cup – ML Challenge** — Participant
-- **BEZUMhack** — Participant
-- **IT-Jam “ITy Hero”** — Participant
-- **TECH SQUAD** (Gazprom) — Participant
-- **IPTIP CODE APRIL 2025** — Participant
-- **VnedReid** hackathon (Orison Soft) — Participant
-- **“Code of Victory”** hackathon (RTU MIREA) — Participant
-- **ARCHI TECH** hackathon (VTB) — Participant
-- **GO CTF Tatarstan 2025** — Participant
-- **Yandex Universities Battle** — Semifinalist
-- **Digital Marathon** (Sberbank) — Participant
+— 🥉 **CrossHack 4.0** — 3rd place (Prize winner)  
+— ⚔️ **Yandex Universities Battle** — Semifinalist  
+— 🧪 **Coderun Boost Challenge** — 39th overall, 14th (Python)  
+— 🧠 **IT_ONE Cup — ML Challenge** — Participant  
+— 🧩 **BEZUMhack** — Participant  
+— 🦾 **IT-Jam “ITy Hero”** — Participant  
+— 🛡 **TECH SQUAD (Gazprom)** — Participant  
+— 🧰 **IPTIP Code April 2025** — Participant  
+— 🚀 **VnedReid (Orison Soft)** — Participant  
+— 🏅 **“Code of Victory” (RTU MIREA)** — Participant  
+— 🧱 **ARCHI TECH (VTB)** — Participant  
+— 🐍 **GO CTF Tatarstan 2025** — Participant  
+— 🏃 **Digital Marathon (Sberbank)** — Participant  
 
 ### 2024
-- **Yandex Cup 2024 – Frontend track (Tashkent)** — Finalist
-- **Yandex Cup 2024 – Backend track** — Semifinalist
-- **Yandex Cup 2024 – Algorithms track** — Participant
-- **MTS True Tech Champ** — Semifinalist
-- **“I Am a Professional”** All-Russian Olympiad — Competed in 7 tracks
+— 🎯 **Yandex Cup — Frontend (Tashkent)** — Finalist  
+— ⚙️ **Yandex Cup — Backend** — Semifinalist  
+— 📐 **Yandex Cup — Algorithms** — Participant  
+— 🔧 **MTS True Tech Champ** — Semifinalist  
+— 📚 **“I Am a Professional” Olympiad** — Participant (7 tracks)
+
+## 💡 Selected Projects
+> 📌 The **most substantial** projects are **pinned** on my profile (top of the page).
+
+## 📬 Contact
+<p>
+  <a href="mailto:valerich.tv.88@mail.ru">
+    <img src="https://img.shields.io/badge/📧_Email-valerich.tv.88%40mail.ru-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </details>
 
----
-
-## 🔥 Selected Projects
-
-| Project / Repo | Stack | Highlights |
-|----------------|-------|------------|
-| **Code-Win-MIREA**<br>*(private fragments)* | Python / AI | NLP emotional analysis, story & image generation, music synthesis |
-| **TeamForge** *(priv.)* | Flask + WebRTC | Team chat, calls, trainee courses, AI-assistant (demo on request) |
-| **webconstructor** | JS/HTML | Rapid web-page prototyping CLI |
-
----
-
-## 🤝 Let’s Connect
-If my skills and projects match your needs, feel free to reach out through **Email** or any contact above. I’m ready to dive into complex tasks, learn fast, and ship value.
-
----
-
 <details>
-<summary>Нажмите, чтобы раскрыть русскую версию</summary>
+<summary><b>🇷🇺 Русский</b></summary>
 
-# Привет! Я Валерий Червяков
+## 🌟 Обо мне
+🧑‍💻 Фулстек-разработчик и QA-инженер с **опытом 1+ года** в веб-системах, автоматизации и интеграции бэкенда/фронтенда.  
+🎓 Бакалавриат **РТУ МИРЭА** (Full-Stack Development, 2023–2027)  
+🎯 Переподготовка: **Администрирование отечественных систем** (2024–2025)  
+📘 Курсы: **«Поколение Python»** (базовый и продвинутый)  
 
-**Фулстек-разработчик, студент 3-го курса МИРЭА.** Открыт для стажировок и проектов, ценю чистый код и прозрачные процессы.
+## 🧰 Технологии
 
-## ✨ Обо мне
-- Учусь на *Full-Stack Development* (2023-2027).
-- Прохожу переподготовку «Администрирование отечественных систем» (2024-2025).
-- Люблю **WPF/C#**, **React**, **Flask**, **FastAPI** и всё, что помогает решать задачи быстро и качественно.
+### 🔤 Языки
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
+</p>
 
-## ✅ Стек
-Python • C/C++/C# • Java • JavaScript • SQL • Go • React • FastAPI • Flask • Docker • Git и др.
+### 🎨 Фронтенд
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WPF-512BD4?logo=dotnet&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=white&style=for-the-badge"/>
+</p>
 
-## 🏆 Достижения
-- **CrossHack 4.0 (2025)** — 3-е место
-- **Yandex Cup 2024** — финалист фронтенда, полуфиналист бэкенда
-- **MTS True Tech Champ 2024** — полуфиналист  
-<details>
-<summary><strong>Подробнее</strong></summary>
+### ⚙️ Бэкенд / Фреймворки
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white&style=for-the-badge"/>
+</p>
 
-### 2025 год
-- **CrossHack 4.0** — призёр, 3-е место
-- **MTS True Tech Hack** — участник
-- **IT_ONE Cup – ML Challenge** — участник
-- **БЕЗУМhack** — участник
-- **IT-Джем «ИТы Герой»** — участник
-- **TECH SQUAD** (Газпром) — участник
-- **IPTIP CODE APRIL 2025** — участник
-- **Внедрейд** (Orison Soft) — участник
-- **Хакатон «Код победы»** (РТУ МИРЭА) — участник
-- **ARCHI TECH** (ВТБ) — участник
-- **GO CTF TATARSTAN 2025** — участник
-- **Батл вузов** (Яндекс) — полуфиналист
-- **Цифровой марафон** (Сбербанк) — участник
+### ✅ Тестирование и QA
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React%20Testing%20Library-E33332?logo=testing-library&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Allure-ED2668?logo=allure&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Locust-000000?logo=locust&logoColor=white&style=for-the-badge"/>
+</p>
 
-### 2024 год
-- **Yandex Cup 2024 — Frontend (Ташкент)** — финалист
-- **Yandex Cup 2024 — Backend** — полуфиналист
-- **Yandex Cup 2024 — Алгоритмы** — участник
-- **MTS True Tech Champ** — полуфиналист
-- **Всероссийская олимпиада «Я — профессионал»** — участие в 7 направлениях
+### 🛠 Инструменты
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tilda-000000?logo=tildapublishing&logoColor=white&style=for-the-badge"/>
+</p>
 
-</details>
+> Также: SQLAlchemy • Pydantic • Flask-Login • Flask-Mail • eventlet • requests • uvicorn • httpx • PyJWT • python-socketio
 
-## 🚀 Проекты
-- **Code-Win-MIREA** — анализ военных дневников, генерация историй, иллюстраций, музыки
-- **LocalConstructor** — десктоп-конструктор сайтов (Go + Wails)
-- **TeamForge** — командный чат с WebRTC и AI-ассистентом (демо по запросу)
+## 🏆 Достижения 
+### 2025
+— 🥉 **CrossHack 4.0** — 3 место (призёр)  
+— ⚔️ **Батл вузов (Яндекс)** — полуфиналист  
+— 🧪 **Coderun Boost Challenge** — 39 место общ., 14 место (Python)  
+— 🧠 **IT_ONE Cup — ML Challenge** — участник  
+— 🧩 **BEZUMhack** — участник  
+— 🦾 **IT-Jam «ИТы Герой»** — участник  
+— 🛡 **TECH SQUAD (Газпром)** — участник  
+— 🧰 **IPTIP Code April 2025** — участник  
+— 🚀 **VnedReid (Orison Soft)** — участник  
+— 🏅 **«Код победы» (РТУ МИРЭА)** — участник  
+— 🧱 **ARCHI TECH (ВТБ)** — участник  
+— 🐍 **GO CTF Tatarstan 2025** — участник  
+— 🏃 **Цифровой марафон (Сбербанк)** — участник  
 
-Заходите на **GitHub**, посмотрим код и обсудим сотрудничество!
+### 2024
+— 🎯 **Yandex Cup — Frontend (Ташкент)** — финалист  
+— ⚙️ **Yandex Cup — Backend** — полуфиналист  
+— 📐 **Yandex Cup — Алгоритмы** — участник  
+— 🔧 **MTS True Tech Champ** — полуфиналист  
+— 📚 **Олимпиада «Я — профессионал»** — участник (7 направлений)
+
+## 💡 Проекты
+> 📌 Самые **массивные** проекты **закреплены (Pinned)** сверху профиля.
+
+## 📬 Контакты
+<p>
+  <a href="mailto:valerich.tv.88@mail.ru">
+    <img src="https://img.shields.io/badge/📧_Почта-valerich.tv.88%40mail.ru-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </details>
