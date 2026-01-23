@@ -74,10 +74,14 @@
 > Also using: SQLAlchemy • Pydantic • Flask-Login • Flask-Mail • eventlet • requests • uvicorn • httpx • PyJWT • python-socketio
 
 ## 🏆 Achievements 
+### 2026
+— 🏅 **“I Am a Professional” Olympiad** — Semifinalist (Programming & IT, Bachelor)
+
 ### 2025
 — 🥉 **CrossHack 4.0** — 3rd place (Prize winner)  
 — ⚔️ **Yandex Universities Battle** — Semifinalist  
 — 🧪 **Coderun Boost Challenge** — 39th overall, 14th (Python)  
+— 🏁 **Yandex Cup 2025 (Istanbul)** — 21st place in qualifier to finals  
 — 🧠 **IT_ONE Cup — ML Challenge** — Participant  
 — 🧩 **BEZUMhack** — Participant  
 — 🦾 **IT-Jam “ITy Hero”** — Participant  
@@ -174,10 +178,14 @@
 > Также: SQLAlchemy • Pydantic • Flask-Login • Flask-Mail • eventlet • requests • uvicorn • httpx • PyJWT • python-socketio
 
 ## 🏆 Достижения 
+### 2026
+— 🏅 **Олимпиада «Я — профессионал»** — полуфиналист (Программирование и информационные технологии, бакалавриат)
+
 ### 2025
 — 🥉 **CrossHack 4.0** — 3 место (призёр)  
 — ⚔️ **Батл вузов (Яндекс)** — полуфиналист  
 — 🧪 **Coderun Boost Challenge** — 39 место общ., 14 место (Python)  
+— 🏁 **Yandex Cup 2025 (Стамбул)** — 21 место в отборочном туре в финал  
 — 🧠 **IT_ONE Cup — ML Challenge** — участник  
 — 🧩 **BEZUMhack** — участник  
 — 🦾 **IT-Jam «ИТы Герой»** — участник  
