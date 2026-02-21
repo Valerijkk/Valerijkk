@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Valerii Chervyakov</h1>
 <p align="center">
-  <strong>💻 Full-Stack & QA Engineer • 🎓 3rd-year @ MIREA • 🧠 1+ year experience</strong>
+  <strong>💻 Full-Stack & QA Engineer • 🎓 3rd-year @ MIREA • 🧠 3+ year experience</strong>
 </p>
 <p align="center">
   <a href="mailto:valerich.tv.88@mail.ru">
@@ -116,7 +116,7 @@
 <summary><b>🇷🇺 Русский</b></summary>
 
 ## 🌟 Обо мне
-🧑‍💻 Фулстек-разработчик и QA-инженер с **опытом 1+ года** в веб-системах, автоматизации и интеграции бэкенда/фронтенда.  
+🧑‍💻 Фулстек-разработчик, AQA-инженер, Тех/Qa/тимлид с **опытом 3+ лет** в веб-системах, автоматизации и интеграции бэкенда/фронтенда.  
 🎓 Бакалавриат **РТУ МИРЭА** (Full-Stack Development, 2023–2027)  
 🎯 Переподготовка: **Администрирование отечественных систем** (2024–2025)  
 📘 Курсы: **«Поколение Python»** (базовый и продвинутый)  
